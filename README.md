@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Bluee
+# 💫 Hi 👋, I'm Adarsh Kumar Srivastava
 **A passionate Web developer || Full stack developer
 
 Email Me 👉 ✉️ **adarshsrivastava536@gmail.com* For Collaboration/Project or Anything Else. 😊😊
