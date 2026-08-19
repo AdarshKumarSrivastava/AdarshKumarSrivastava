@@ -60,30 +60,17 @@ Email Me 👉 ✉️ **adarshsrivastava536@gmail.com* For Collaboration/Project 
 ![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
 
 
-
-
 ![EmailJS](https://img.shields.io/badge/EmailJS-%23FF6B35.svg?style=for-the-badge&logo=maildotru&logoColor=white)
-
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-
 ![Brevo](https://img.shields.io/badge/Brevo-%2300AEEF.svg?style=for-the-badge&logo=brevo&logoColor=white)
-
 ![Replit](https://img.shields.io/badge/Replit-%23F26207.svg?style=for-the-badge&logo=replit&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![ImageKit](https://img.shields.io/badge/ImageKit-%23000000.svg?style=for-the-badge&logo=imagekit&logoColor=white)
-
 ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
 ![Secrets](https://img.shields.io/badge/Secrets-%23D32F2F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
-
 ![Lenis](https://img.shields.io/badge/Lenis-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-
 ![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-
 ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
-
 ![Locomotive Scroll](https://img.shields.io/badge/Locomotive%20Scroll-%23000000.svg?style=for-the-badge&logo=locomotive&logoColor=white)
 
 
