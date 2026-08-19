@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Adarsh Kumar Srivastava
-**A passionate Web developer || Full stack developer
+**A passionate Web Developer || Full Stack developer || MERN Stack || Data Science 
 
 Email Me 👉 ✉️ **adarshsrivastava536@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
@@ -9,7 +9,7 @@ Email Me 👉 ✉️ **adarshsrivastava536@gmail.com* For Collaboration/Project 
 - 🤔 *I’m looking for help with:* Internships , Freelance and Paid Projects
 - 💬 *Ask me about:* Collaboration, Tech Support
 - 📫 *How to reach me:* adarshsrivastava536@gmail.com
-- 😄 *Pronouns:* Bhavit 
+- 😄 *Pronouns:* Adarsh 
 - ⚡ *Fun fact:* I Love Tech and Tech Love Me
 
 
