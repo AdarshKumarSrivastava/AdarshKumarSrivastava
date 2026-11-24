@@ -1,89 +1,174 @@
-# 💫 Hi 👋, I'm Adarsh Kumar Srivastava
-**A passionate Web Developer || Full Stack developer || MERN Stack || Data Science 
-
-Email Me 👉 ✉️ **adarshsrivastava536@gmail.com* For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 *I’m currently working on:* Cool projects
-- 🌱 *I’m currently learning:* Data Science and AI automations
-- 👯 *I’m looking to collaborate on:* Web development || automation softwares
-- 🤔 *I’m looking for help with:* Internships , Freelance and Paid Projects
-- 💬 *Ask me about:* Collaboration, Tech Support
-- 📫 *How to reach me:* adarshsrivastava536@gmail.com
-- 😄 *Pronouns:* Adarsh 
-- ⚡ *Fun fact:* I Love Tech and Tech Love Me
-
-
-
-
-
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="assets/header.svg" width="100%" alt="Adarsh Kumar Srivastava - Full Stack Developer | Software Engineer | AI Enthusiast"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+%7C+Next.js+%7C+TypeScript;Exploring+Generative+AI+%26+Automation;Data+Science+%7C+Backend+Engineering;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+</a>
+
+<br/>
+<br/>
+
+![CGPA](https://img.shields.io/badge/CGPA-8.4%2F10-6D28D9?style=for-the-badge&labelColor=1a1a2e)
+![University](https://img.shields.io/badge/Galgotias%20University-B.Tech%20AI%20%26%20DS%20'29-7C3AED?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍-Noida%2C%20India-4C1D95?style=for-the-badge&labelColor=1a1a2e)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://adarsh-portfilio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AdarshKumarSrivastava)
+[![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:adarshsrivastava536@gmail.com)
+
 </div>
 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## 🟣 About Me
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer](https://img.shields.io/badge/framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![W3.CSS](https://img.shields.io/badge/W3.CSS-%2300A3E0.svg?style=for-the-badge&logo=w3schools&logoColor=white)
+Hey! I'm **Adarsh Kumar Srivastava**, a passionate Software Developer and B.Tech student specializing in **Artificial Intelligence and Data Science at Galgotias University**.
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot-%23FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white)
+I love building modern, scalable, and intelligent applications that solve real-world problems. My interests span **Full Stack Development, MERN Stack, Software Engineering, Data Science, Generative AI, and AI Automation**.
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-%2300A98F.svg?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234C72B0.svg?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+I enjoy transforming ideas into functional products, exploring new technologies, experimenting with modern architectures, and continuously improving my engineering skills.
 
+### 🚀 What I'm Up To
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-%23000000.svg?style=for-the-badge&logo=google&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+* 🔭 **Currently Working On:** Full Stack applications, SaaS products, and innovative tech projects
+* 🌱 **Currently Learning:** Data Science, Generative AI, AI Automation, and System Design
+* 👯 **Looking To Collaborate On:** Web Development, MERN Stack, AI Projects, and Automation Software
+* 💬 **Ask Me About:** Full Stack Development, React, Next.js, Python, AI, and Tech
+* 😄 **Pronouns:** He/Him
+* ⚡ **Fun Fact:** I Love Tech and Tech Loves Me!
 
+### Open To
 
-![EmailJS](https://img.shields.io/badge/EmailJS-%23FF6B35.svg?style=for-the-badge&logo=maildotru&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-%233448C5.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Brevo](https://img.shields.io/badge/Brevo-%2300AEEF.svg?style=for-the-badge&logo=brevo&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-%23F26207.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![ImageKit](https://img.shields.io/badge/ImageKit-%23000000.svg?style=for-the-badge&logo=imagekit&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Secrets](https://img.shields.io/badge/Secrets-%23D32F2F.svg?style=for-the-badge&logo=dotenv&logoColor=white)
-![Lenis](https://img.shields.io/badge/Lenis-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)
-![Locomotive Scroll](https://img.shields.io/badge/Locomotive%20Scroll-%23000000.svg?style=for-the-badge&logo=locomotive&logoColor=white)
+* Software Engineering Internships
+* Freelance Opportunities and Paid Projects
+* Full Stack Development Opportunities
+* AI/ML and Automation Projects
+* Open Source Collaborations
 
+---
 
+## 🟣 Tech Stack
 
+**Languages**
+<div align="center">
 
+![c](https://skillicons.dev/icons?i=c) ![cpp](https://skillicons.dev/icons?i=cpp) ![php](https://skillicons.dev/icons?i=php) ![java](https://skillicons.dev/icons?i=java) ![py](https://skillicons.dev/icons?i=py) ![js](https://skillicons.dev/icons?i=js) ![ts](https://skillicons.dev/icons?i=ts) ![r](https://skillicons.dev/icons?i=r)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
 
-see this and i aslo want that contribution snake
+**Frontend**
+<div align="center">
+
+![html](https://skillicons.dev/icons?i=html) ![css](https://skillicons.dev/icons?i=css) ![react](https://skillicons.dev/icons?i=react) ![nextjs](https://skillicons.dev/icons?i=nextjs) ![angular](https://skillicons.dev/icons?i=angular) ![tailwind](https://skillicons.dev/icons?i=tailwind) ![redux](https://skillicons.dev/icons?i=redux) ![threejs](https://skillicons.dev/icons?i=threejs) ![framer](https://skillicons.dev/icons?i=framer)
+
+</div>
+
+**Backend & Databases**
+<div align="center">
+
+![nodejs](https://skillicons.dev/icons?i=nodejs) ![express](https://skillicons.dev/icons?i=express) ![fastapi](https://skillicons.dev/icons?i=fastapi) ![django](https://skillicons.dev/icons?i=django) ![prisma](https://skillicons.dev/icons?i=prisma) ![mongodb](https://skillicons.dev/icons?i=mongodb) ![postgres](https://skillicons.dev/icons?i=postgres) ![mysql](https://skillicons.dev/icons?i=mysql) ![supabase](https://skillicons.dev/icons?i=supabase)
+
+</div>
+
+**Data Science & AI**
+<div align="center">
+
+![numpy](https://skillicons.dev/icons?i=numpy) ![pandas](https://skillicons.dev/icons?i=pandas) ![matplotlib](https://skillicons.dev/icons?i=matplotlib) ![sklearn](https://skillicons.dev/icons?i=sklearn) ![powerbi](https://skillicons.dev/icons?i=powerbi)
+
+</div>
+
+**Tools & Deployment**
+<div align="center">
+
+![git](https://skillicons.dev/icons?i=git) ![github](https://skillicons.dev/icons?i=github) ![vscode](https://skillicons.dev/icons?i=vscode) ![postman](https://skillicons.dev/icons?i=postman) ![docker](https://skillicons.dev/icons?i=docker) ![linux](https://skillicons.dev/icons?i=linux) ![vercel](https://skillicons.dev/icons?i=vercel) ![replit](https://skillicons.dev/icons?i=replit)
+
+</div>
+
+---
+
+## 🟣 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|--------|--------|
+| **Monolith** | Shopify-inspired multi-tenant e-commerce SaaS platform for creating and managing online stores | Next.js, TypeScript, PostgreSQL, NeonDB, MongoDB, Prisma |
+| **[VK Sentinels](https://github.com/errrendev/vksentinals)** | Modern web platform focused on interactive UX, frontend architecture, and performance | React, Next.js, TypeScript, Tailwind CSS |
+| **[Hack in Hills '26](https://hack-in-hills-black.vercel.app/)** | Hackathon website built around the Manali innovation ecosystem with immersive UI/UX | Next.js, Modern Web Tech |
+| **Nifty 100 Financial Intelligence System** | Financial data engineering and analytics platform with ETL pipelines, star-schema design, and dashboards | Python, SQL, PostgreSQL, Django, Power BI |
+
+</div>
+
+---
+
+## 🟣 Leadership
+
+<div align="center">
+
+| Role | Organization |
+|--------|--------|
+| Active Member | Quanta – AI & Data Science Club, Galgotias University |
+| Organizer & Anchor | QuantCraft 2026 – 24-hour National-Level Hackathon |
+| Organizer | SPARKX 2.0 – Technical Exhibition |
+| Organizing Team | International Symposium on Artificial Intelligence |
+
+</div>
+
+---
+
+## 🟣 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AdarshKumarSrivastava&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=E0D7FF"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshKumarSrivastava&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=E0D7FF"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshKumarSrivastava&theme=tokyonight&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="75%"/>
+
+</div>
+
+---
+
+## 🟣 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshKumarSrivastava&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=E0D7FF" width="100%"/>
+
+</div>
+
+---
+
+## 🟣 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AdarshKumarSrivastava/AdarshKumarSrivastava/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+## 🟣 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-adarshsrivastava536%40gmail.com-A78BFA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:adarshsrivastava536@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AdarshKumarSrivastava-6D28D9?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AdarshKumarSrivastava)
+[![Portfolio](https://img.shields.io/badge/Portfolio-adarsh--portfilio.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1a2e)](https://adarsh-portfilio.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+
+*“Turning ambitious ideas into scalable technology.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+</div>
