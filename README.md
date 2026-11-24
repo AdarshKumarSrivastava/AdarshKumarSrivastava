@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Adarsh Kumar Srivastava - Full Stack Developer | Software Engineer | AI Enthusiast"/>
+<img src="header.svg" width="100%" alt="Adarsh Kumar Srivastava - Full Stack Developer | Software Engineer | AI Enthusiast"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Scalable+Full+Stack+Applications;MERN+Stack+%7C+Next.js+%7C+TypeScript;Exploring+Generative+AI+%26+Automation;Data+Science+%7C+Backend+Engineering;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
